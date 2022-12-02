@@ -1,0 +1,33 @@
+Fonts:
+    - Roboto
+    - Garet
+        * Both are sans serif
+
+Colors:
+    - #fbfdfd // 251, 253, 253
+        * a very light green, slightly darker than white
+        * great for backgrounds
+    
+    - #b7cacb // 183, 202, 203
+        * a medium, sea-foam-like green
+        * great for accents and pops
+
+    - #024042 // 2, 64, 66
+        * a dark green
+        * great for fonts and accents
+
+    - #ffffff // 255, 255, 255
+        * white
+        * great for pops of brightness
+
+    - #000000 // 0, 0, 0
+        * black
+        * great for fonts and accents
+        * I plan to try the dark green for fonts first and 
+        see how it looks
+
+
+Shapes: 
+    - sharp edges, the rectangle family
+    - the M in my logo has sharp edges, so I'll stick 
+        with that for consistent branding
