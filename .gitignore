@@ -1,1 +1,6 @@
 *.txt
+.bash_history
+.gitconfig
+.lesshst
+.node_repl_history
+wiki_Logo.png
